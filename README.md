@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @c-mayer
 - 👀 I’m interested in writing, music, gaming, etc.
 - 🌱 I’m currently learning Biodata Science. So especially focusing on Bash in Linux and Python.
-- 💞️ I’m looking to collaborate on pipelines for RNA modifications.
+- 💞️ I’m looking to collaborate on pipelines for metbolic modelling.
 - 📫 How to reach me ...
 
 <!---
